@@ -1,6 +1,6 @@
 {
  "name": "Destasia",
- "version": "2026-11-01 23:07",
+ "version": "2026-11-07 02:00",
  "minecraft": "1.12.2",
  "server": {
   "host": "destasia.minesr.com",
@@ -405,8 +405,8 @@
   },
   {
    "path": "config/splash.properties",
-   "sha1": "c430c10abca6804db75b9efbb003f695d000dba0",
-   "size": 376,
+   "sha1": "bd89446e0081ae64e41ebe3f8ddb136b3e982ee5",
+   "size": 375,
    "mode": "once"
   },
   {
@@ -423,8 +423,8 @@
   },
   {
    "path": "config/worldedit/worldedit.properties",
-   "sha1": "a2fb22604dc348b8ea2c8b4579b0b03594cbcf91",
-   "size": 1057,
+   "sha1": "f10533f054d2203cbb4c783fab3fa0d14a12fc11",
+   "size": 1056,
    "mode": "once"
   },
   {
@@ -872,9 +872,9 @@
    "mode": "sync"
   },
   {
-   "path": "mods/DestasiaSuite.jar",
-   "sha1": "1b74fd2c7c931774176351d7e455e7c1c9bd6af4",
-   "size": 628496,
+   "path": "mods/DestasiaSuite1.1.jar",
+   "sha1": "2279016dfabe50cc6ca696a037dc98a623b85da4",
+   "size": 1334093,
    "mode": "sync"
   },
   {
