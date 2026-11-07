@@ -1,0 +1,1122 @@
+{
+ "name": "Destasia",
+ "version": "2026-11-01 23:07",
+ "minecraft": "1.12.2",
+ "server": {
+  "host": "destasia.minesr.com",
+  "port": 25565
+ },
+ "forge": {
+  "id": "1.12.2-forge-14.23.5.2859",
+  "json": {
+   "path": "forge/version.json",
+   "sha1": "c54d0e772bd9e4c0ddcf60071a7b63b946175037",
+   "size": 12358
+  },
+  "jar": {
+   "path": "forge/forge-1.12.2-14.23.5.2859.jar",
+   "sha1": "bfc07a510e23e5181b6a32fdcea9c9d9a1445a46",
+   "size": 4466108
+  }
+ },
+ "syncDirs": [
+  "mods",
+  "addonpacks",
+  "coremods"
+ ],
+ "files": [
+  {
+   "path": "addonpacks/abilities.html",
+   "sha1": "02f10350ffd0db0b37a722e33b68f871f9bbca19",
+   "size": 177435,
+   "mode": "sync"
+  },
+  {
+   "path": "addonpacks/addonpack_destasia.zip",
+   "sha1": "1d94d0c741cbc65910c14b44801ee68d3246cecd",
+   "size": 10905101,
+   "mode": "sync"
+  },
+  {
+   "path": "cef.pak",
+   "sha1": "229dd3682dda8258497f342319cdbec9ff35bc33",
+   "size": 2749972,
+   "mode": "once"
+  },
+  {
+   "path": "cef_100_percent.pak",
+   "sha1": "e14361db195acf3a6676de3c25a2f81ac3ab67b3",
+   "size": 146067,
+   "mode": "once"
+  },
+  {
+   "path": "cef_200_percent.pak",
+   "sha1": "3ef18057982b409db394046f7c5d37f7985deaf7",
+   "size": 235262,
+   "mode": "once"
+  },
+  {
+   "path": "cef_extensions.pak",
+   "sha1": "7d9655b90f019b70452a50e51c905918f5767f91",
+   "size": 4409164,
+   "mode": "once"
+  },
+  {
+   "path": "config/act.cfg",
+   "sha1": "b8a41a050e027e58e35dcf6d385ca3ab3319b13a",
+   "size": 317,
+   "mode": "once"
+  },
+  {
+   "path": "config/armourers_workshop/client.cfg",
+   "sha1": "c89c69ddfae392ba9ae6ed5f6c61b1da34e7cfbd",
+   "size": 7312,
+   "mode": "once"
+  },
+  {
+   "path": "config/armourers_workshop/common.cfg",
+   "sha1": "d5fc8cff8d57f88313c7732a6069775ac8de8157",
+   "size": 9063,
+   "mode": "once"
+  },
+  {
+   "path": "config/armourers_workshop/overrides.cfg",
+   "sha1": "5f3dc727d9d1c0047990592f78b89db8e45f18ec",
+   "size": 1181,
+   "mode": "once"
+  },
+  {
+   "path": "config/betterfps.json",
+   "sha1": "c4dae4f37c8bd8dc10df4a793291a748924ed1f7",
+   "size": 176,
+   "mode": "once"
+  },
+  {
+   "path": "config/betterrecords.cfg",
+   "sha1": "f3626921bb91bbbcb30ba4504cf63c8a2e20bd19",
+   "size": 1304,
+   "mode": "once"
+  },
+  {
+   "path": "config/brewcraft.cfg",
+   "sha1": "21c5d30c2a91ebc394248c048d4f2daa0cbbd5da",
+   "size": 417,
+   "mode": "once"
+  },
+  {
+   "path": "config/casinocraft.cfg",
+   "sha1": "0756479bbf052b9b7da6892f1bcc35bf8c9b3575",
+   "size": 212,
+   "mode": "once"
+  },
+  {
+   "path": "config/cfm.cfg",
+   "sha1": "901d4f19b4aa016c29c4a915003cade543059898",
+   "size": 7631,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/assault_rifle.json",
+   "sha1": "c084363edddb42ea67764d49e07ae6cd4a78fb46",
+   "size": 340,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/bazooka.json",
+   "sha1": "bd6b4e58828fa68adc07b02dfe5e5707eb994fcf",
+   "size": 340,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/chain_gun.json",
+   "sha1": "9c452f8cb794f177694c6e6efb45ced17975b8c0",
+   "size": 340,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/grenade_launcher.json",
+   "sha1": "bd87e32b73971bc77719e0fa0776519834e93901",
+   "size": 338,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/handgun.json",
+   "sha1": "c20f56619557eda54d80a361ed372943665c6046",
+   "size": 340,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/machine_pistol.json",
+   "sha1": "461329b920800a0c31661dea28c0602a630df444",
+   "size": 340,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/rifle.json",
+   "sha1": "a6caf5215f1e196252d11e62a859eb8ae408c664",
+   "size": 341,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm/guns/shotgun.json",
+   "sha1": "7f7e61486287a73be8053e3dc93be441143d5c39",
+   "size": 337,
+   "mode": "once"
+  },
+  {
+   "path": "config/cgm.cfg",
+   "sha1": "de5af3b28c0dc56ffb2c3c2b8a5b10117a293f92",
+   "size": 15028,
+   "mode": "once"
+  },
+  {
+   "path": "config/chisel.cfg",
+   "sha1": "b64abaaac326701881d2f901c34c120c5c2e20a5",
+   "size": 4835,
+   "mode": "once"
+  },
+  {
+   "path": "config/ctm.cfg",
+   "sha1": "fd5b7d65e2a89f34d395beefbea4990e8910827a",
+   "size": 240,
+   "mode": "once"
+  },
+  {
+   "path": "config/currency.cfg",
+   "sha1": "1f5900c9e45c2318abb93f757e31ca66219ab7fd",
+   "size": 651,
+   "mode": "once"
+  },
+  {
+   "path": "config/CustomNpcs.cfg",
+   "sha1": "87e20f4a29c081763d38603ccdbdc1215f24d967",
+   "size": 1551,
+   "mode": "once"
+  },
+  {
+   "path": "config/decocraft.cfg",
+   "sha1": "4dbdb9dc1514dbecc7a32c0c3c806cd2513ebfce",
+   "size": 214,
+   "mode": "once"
+  },
+  {
+   "path": "config/elevatorid.cfg",
+   "sha1": "3e31fcb3e5d5f40e18a5a9ef6008044a3e60d743",
+   "size": 544,
+   "mode": "once"
+  },
+  {
+   "path": "config/extendedpasupport.cfg",
+   "sha1": "70d8a23212ba071fb1237e61212c3caa265b21bc",
+   "size": 257,
+   "mode": "once"
+  },
+  {
+   "path": "config/forge.cfg",
+   "sha1": "04eb57dfcf4a5780ef45adb2f29db33cd9a91acd",
+   "size": 3955,
+   "mode": "once"
+  },
+  {
+   "path": "config/forgeChunkLoading.cfg",
+   "sha1": "77694a92f84b4b6f23c399826f9b107ebb9cd4a7",
+   "size": 2206,
+   "mode": "once"
+  },
+  {
+   "path": "config/futuremc/futuremc.cfg",
+   "sha1": "0c9d233663f509ab3cfd6582bd41b38bbedd76bd",
+   "size": 25437,
+   "mode": "once"
+  },
+  {
+   "path": "config/grimoireofgaia.cfg",
+   "sha1": "e85f935d579aba795d1a240efe63c06a7f046bd8",
+   "size": 7821,
+   "mode": "once"
+  },
+  {
+   "path": "config/harvestcraft.cfg",
+   "sha1": "42b45eee08d7d426ca5fb7fd62ac60f7d8159cfb",
+   "size": 14552,
+   "mode": "once"
+  },
+  {
+   "path": "config/harvestcraft_fruittree.cfg",
+   "sha1": "8513db4a98e7ba3fa8f068a74670a3df09afe308",
+   "size": 64429,
+   "mode": "once"
+  },
+  {
+   "path": "config/heroesexpansion.cfg",
+   "sha1": "bfd438c6e641e8f2ffd626fda2596df0d8a87249",
+   "size": 1864,
+   "mode": "once"
+  },
+  {
+   "path": "config/infinity.cfg",
+   "sha1": "d162db2aa97396a0609f5318692b5e32e1a45c18",
+   "size": 1753,
+   "mode": "once"
+  },
+  {
+   "path": "config/journeymap_ModInfo.cfg",
+   "sha1": "39ff223019c2cc945286e6316aed77367c017d66",
+   "size": 373,
+   "mode": "once"
+  },
+  {
+   "path": "config/journeymap_server.cfg",
+   "sha1": "a77f42cc8247068729d0d8ed4a4e269c86dbd2ea",
+   "size": 633,
+   "mode": "once"
+  },
+  {
+   "path": "config/jurassicraft.cfg",
+   "sha1": "b6d7a5f368569894c48731a1934126f5f9505f1e",
+   "size": 1366,
+   "mode": "once"
+  },
+  {
+   "path": "config/lc_addonpacks.cfg",
+   "sha1": "e25c9f8394b1f431bada749f76413a4697882794",
+   "size": 77,
+   "mode": "once"
+  },
+  {
+   "path": "config/lucraftcore.cfg",
+   "sha1": "be7ad482866b7526b53941d2baef5b8b9f31e9bc",
+   "size": 4400,
+   "mode": "once"
+  },
+  {
+   "path": "config/lunatriuscore.cfg",
+   "sha1": "1bd6ea5017d6ada033aa44507292e6a5a23b1e2d",
+   "size": 116,
+   "mode": "once"
+  },
+  {
+   "path": "config/malisiscore.cfg",
+   "sha1": "9269ff7df38fb7d09d670aeeebcee568909818f4",
+   "size": 89,
+   "mode": "once"
+  },
+  {
+   "path": "config/malisisdoors.cfg",
+   "sha1": "2d102e711c251219af6788d2b833ad4cdf0b460d",
+   "size": 282,
+   "mode": "once"
+  },
+  {
+   "path": "config/mcef.cfg",
+   "sha1": "3b5d27371452477bc869865ebb58fa42d7224585",
+   "size": 1008,
+   "mode": "once"
+  },
+  {
+   "path": "config/mcefFiles.lst",
+   "sha1": "23c8b91b12705cb4eadb4ec90f4812ef2942ba30",
+   "size": 1576,
+   "mode": "once"
+  },
+  {
+   "path": "config/mowziesmobs.cfg",
+   "sha1": "aa3583bc0ae5db58d6cf9d039814953e33a04e7a",
+   "size": 34498,
+   "mode": "once"
+  },
+  {
+   "path": "config/mumblelink.cfg",
+   "sha1": "70d8a23212ba071fb1237e61212c3caa265b21bc",
+   "size": 257,
+   "mode": "once"
+  },
+  {
+   "path": "config/ptrmodellib.cfg",
+   "sha1": "99cd3865a1a4bfea3f378afbd850eb8baacd183d",
+   "size": 170,
+   "mode": "once"
+  },
+  {
+   "path": "config/schematica.cfg",
+   "sha1": "2f25482051c46079dd7f19f28e59235bd75e060e",
+   "size": 2693,
+   "mode": "once"
+  },
+  {
+   "path": "config/secretroomsmod.cfg",
+   "sha1": "ad41dc6a32f81f46279c9de04d0c38269641bb0a",
+   "size": 1288,
+   "mode": "once"
+  },
+  {
+   "path": "config/securitycraft.cfg",
+   "sha1": "62193913494524792237ec7eb8b80e0c1f79d8c2",
+   "size": 1103,
+   "mode": "once"
+  },
+  {
+   "path": "config/SGCraft/general.yml",
+   "sha1": "d910b02871075d3156ec8675dfc95b7d5d640aa6",
+   "size": 5,
+   "mode": "once"
+  },
+  {
+   "path": "config/SGCraft/generator.yml",
+   "sha1": "d910b02871075d3156ec8675dfc95b7d5d640aa6",
+   "size": 5,
+   "mode": "once"
+  },
+  {
+   "path": "config/SGCraft/pdd.yml",
+   "sha1": "e75e9020ff5d9a3404af794d7c25a077b6705dd5",
+   "size": 86,
+   "mode": "once"
+  },
+  {
+   "path": "config/SGCraft/tokra.yml",
+   "sha1": "3a458a9d850b8a95985d533f22734e08e97baea5",
+   "size": 43,
+   "mode": "once"
+  },
+  {
+   "path": "config/SGCraft/zpm.yml",
+   "sha1": "b33a9b9b757a14f10b2fbd9851a90a9686422be3",
+   "size": 52,
+   "mode": "once"
+  },
+  {
+   "path": "config/sgcraft.cfg",
+   "sha1": "1781728c4391a09ba1e21e07b9714737cf5ecb0f",
+   "size": 4222,
+   "mode": "once"
+  },
+  {
+   "path": "config/signpic.cfg",
+   "sha1": "376b6997d61217b3ffc183e671f254adbf5c0504",
+   "size": 3862,
+   "mode": "once"
+  },
+  {
+   "path": "config/speedsterheroes.cfg",
+   "sha1": "a7bb8faf92b16aa6593b1901cd3b2f30883a6f15",
+   "size": 5427,
+   "mode": "once"
+  },
+  {
+   "path": "config/splash.properties",
+   "sha1": "c430c10abca6804db75b9efbb003f695d000dba0",
+   "size": 376,
+   "mode": "once"
+  },
+  {
+   "path": "config/vehicle.cfg",
+   "sha1": "7561d2b91760459ec44c2eac074490004dfe3bbe",
+   "size": 5684,
+   "mode": "once"
+  },
+  {
+   "path": "config/webdisplays.cfg",
+   "sha1": "5018b4b67389de71c00905b636bf408cce66af0c",
+   "size": 1541,
+   "mode": "once"
+  },
+  {
+   "path": "config/worldedit/worldedit.properties",
+   "sha1": "a2fb22604dc348b8ea2c8b4579b0b03594cbcf91",
+   "size": 1057,
+   "mode": "once"
+  },
+  {
+   "path": "d3dcompiler_43.dll",
+   "sha1": "98be17e1d324790a5b206e1ea1cc4e64fbe21240",
+   "size": 2106216,
+   "mode": "once"
+  },
+  {
+   "path": "d3dcompiler_47.dll",
+   "sha1": "2a1f772b5f1a6c30510df574bfbca005f41a24f3",
+   "size": 4470976,
+   "mode": "once"
+  },
+  {
+   "path": "devtools_resources.pak",
+   "sha1": "dd4c6417d1c058a7e91b83aa945650e56e609a14",
+   "size": 4740603,
+   "mode": "once"
+  },
+  {
+   "path": "fonts/Digital-7 Mono.bin",
+   "sha1": "e10bf3320b589d7393538c36828f7d6a7669342e",
+   "size": 10967,
+   "mode": "once"
+  },
+  {
+   "path": "fonts/Digital-7 Mono.png",
+   "sha1": "01b001640eac9d717f2353915437c2e317902a4e",
+   "size": 47008,
+   "mode": "once"
+  },
+  {
+   "path": "icudtl.dat",
+   "sha1": "7c401afe79968c4e8ba632e8b3e8d7927d9143bf",
+   "size": 10127152,
+   "mode": "once"
+  },
+  {
+   "path": "jcef.dll",
+   "sha1": "7577e35ab70d6fa523a0995092d48fdd14ec597c",
+   "size": 873984,
+   "mode": "once"
+  },
+  {
+   "path": "jcef_helper.exe",
+   "sha1": "609b11366d1e9edc9e6a387a7577f54189e48db6",
+   "size": 572416,
+   "mode": "once"
+  },
+  {
+   "path": "libcef.dll",
+   "sha1": "5b29837a5fee33582a684abfd382e711db7b08bc",
+   "size": 69740544,
+   "mode": "once"
+  },
+  {
+   "path": "libEGL.dll",
+   "sha1": "95a9e31c8102c7877f8da899bfdcef3fd5932b59",
+   "size": 94208,
+   "mode": "once"
+  },
+  {
+   "path": "libGLESv2.dll",
+   "sha1": "6f26c2a4d06a16cf41176d4e60e968bfa08ddcf6",
+   "size": 2323456,
+   "mode": "once"
+  },
+  {
+   "path": "locales.zip",
+   "sha1": "eb6dae8995a8225b66ed9d7b7d3743b1e3106c6c",
+   "size": 1060105,
+   "mode": "once"
+  },
+  {
+   "path": "mcef2.json",
+   "sha1": "9d9eb126f64f778c0e81ba6378e2ed0a0d94a7e8",
+   "size": 12896,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/am.pak",
+   "sha1": "afde424d27c81c1425b87b2ad904b8fb2808703f",
+   "size": 77527,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ar.pak",
+   "sha1": "30485f99dba6320fc4aedf9b344601ba911cfcba",
+   "size": 76375,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/bg.pak",
+   "sha1": "2e4f998e69a0cc3e2622036cbeda7dd4edc7f96f",
+   "size": 86110,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/bn.pak",
+   "sha1": "1d669a93f832ddf27d238300c3eb70f4ca1d8ac7",
+   "size": 114883,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ca.pak",
+   "sha1": "5394cc7505f2637f0053526aee7d57162e521ca5",
+   "size": 55675,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/cs.pak",
+   "sha1": "39585f7cc783c9356cc9866d5c696563f7300524",
+   "size": 55671,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/da.pak",
+   "sha1": "5ac7ee4213f60f8b358e42ecc38c1d5e9b7da916",
+   "size": 51068,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/de.pak",
+   "sha1": "90fdabd738a832315e8262e4f46ff341ad71db66",
+   "size": 55396,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/el.pak",
+   "sha1": "8de2ce464c7c4d4879b95601278e008ff0127908",
+   "size": 96384,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/en-GB.pak",
+   "sha1": "67fee528bdf8d0fe2e4be6185a0a864741780b82",
+   "size": 46091,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/en-US.pak",
+   "sha1": "15c8070ea65ff847ce09c79434cdbc394cc73100",
+   "size": 46171,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/es-419.pak",
+   "sha1": "de66f383476c9742639f88a8a28672b5ce063206",
+   "size": 53969,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/es.pak",
+   "sha1": "25ac0369fdc993cb6d7e5f02d3eb431e3e0648c5",
+   "size": 55938,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/et.pak",
+   "sha1": "c6bffe782997634a8cd75969e408c5c3f981e168",
+   "size": 48380,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/fa.pak",
+   "sha1": "eff71b01205beead7976862d0a5e1046b48b2038",
+   "size": 75548,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/fi.pak",
+   "sha1": "b8f7f2637fe84fdb16ddc425de23cb6206b73c7c",
+   "size": 50631,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/fil.pak",
+   "sha1": "837cb2ab7e3cc1e9a4ce353a4d4b5ae94e0ee677",
+   "size": 56390,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/fr.pak",
+   "sha1": "621c3511a2d76c61d27e976eed942b8a5e007d85",
+   "size": 58923,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/gu.pak",
+   "sha1": "e897ed691c4c815ad7ae551376fb4e1bbd23af9b",
+   "size": 107875,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/he.pak",
+   "sha1": "3a260c1a6c2f0a9c6f6d9f38f42848714ffa6829",
+   "size": 63544,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/hi.pak",
+   "sha1": "4f04a569d31d2afe2f9b07f2775228dd6017eaa2",
+   "size": 111058,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/hr.pak",
+   "sha1": "92693cb796f1baeabcd6879826be6561f95fe925",
+   "size": 52100,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/hu.pak",
+   "sha1": "136ee789b6b33412275fcfcb9c394c9bddede05b",
+   "size": 56162,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/id.pak",
+   "sha1": "27ee2b4f010aa5794c3cf4e1702e81bf8415d1bc",
+   "size": 48968,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/it.pak",
+   "sha1": "bebbbf56ebf136e70d415c6010539f03fd689983",
+   "size": 53890,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ja.pak",
+   "sha1": "3ffc69bda30a0f13252c160169573b4d921397a2",
+   "size": 65231,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/kn.pak",
+   "sha1": "7f91c7bcc2d6561587a2db7b6c27e62285fe2c43",
+   "size": 123630,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ko.pak",
+   "sha1": "556d087541d11d06d9bafb386945b6194c1393f1",
+   "size": 55660,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/lt.pak",
+   "sha1": "773a65d7a035cdc3b95ee74039f52faed853c893",
+   "size": 55901,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/lv.pak",
+   "sha1": "33b7c71ae290cd38d94f005b26e565f3f640881c",
+   "size": 56886,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ml.pak",
+   "sha1": "5e1c5a2763fa755642b3b027b939cdd22337b962",
+   "size": 134264,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/mr.pak",
+   "sha1": "1c87ab0c5b8d3b56cdf32fe3f2a78180c852918e",
+   "size": 110576,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ms.pak",
+   "sha1": "f471a6bfe9efb8848c6e1d80a4300a03e612abd4",
+   "size": 49935,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/nb.pak",
+   "sha1": "ca40b417c309130fa1fb11b6525e546ada344453",
+   "size": 50043,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/nl.pak",
+   "sha1": "eeb48c750aedb8cfe38af7513703731347a7ce1a",
+   "size": 52308,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/pl.pak",
+   "sha1": "82fc930c37678083f8af478817a67687b7687d41",
+   "size": 54721,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/pt-BR.pak",
+   "sha1": "f35d32c1f476eed043986fd075ce8d1fa93d67d5",
+   "size": 54142,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/pt-PT.pak",
+   "sha1": "f7f6c445d966c7e12d08f0018b88ee94859b8306",
+   "size": 53929,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ro.pak",
+   "sha1": "d74d0609c8beaaf0a9b39792a5bcc2c28e4b7f43",
+   "size": 55629,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ru.pak",
+   "sha1": "7d8f87c14d872b0ceb5ad23d1c4449aaeafd06e9",
+   "size": 84306,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/sk.pak",
+   "sha1": "106878860f1f0459c2198a66a1e894bae2d1470a",
+   "size": 56091,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/sl.pak",
+   "sha1": "a867aab5f74c83c383a253917b988788a1de565e",
+   "size": 52427,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/sr.pak",
+   "sha1": "9affea5067db5ac8be0fc2e581844a5c06eedc37",
+   "size": 82361,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/sv.pak",
+   "sha1": "16a3656ede64b6c658a6799b13b1c622757bcb2b",
+   "size": 49750,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/sw.pak",
+   "sha1": "4feffd55300df8ec80dd6683ba35074f199a3e28",
+   "size": 49884,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/ta.pak",
+   "sha1": "c3b5493866f9221998ef7f0413ea42ef9bc30720",
+   "size": 127484,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/te.pak",
+   "sha1": "16eec51f1b9cd72276a62afde2da0fb771e386e1",
+   "size": 117722,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/th.pak",
+   "sha1": "b9321567d972634c8ade577fe1ed6c218939f2b8",
+   "size": 104890,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/tr.pak",
+   "sha1": "d4f9a4c442ec30276244299318d823fd0eb1ecd4",
+   "size": 52673,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/uk.pak",
+   "sha1": "45cc3e0e29089395ead9115e664a716a3cecb9c8",
+   "size": 87212,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/vi.pak",
+   "sha1": "2a3c7ea5385230e834a92e5b2eb453cd30482a8a",
+   "size": 60615,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/zh-CN.pak",
+   "sha1": "605387d0737cbe29e417c4909667c432608b7275",
+   "size": 45082,
+   "mode": "once"
+  },
+  {
+   "path": "MCEFLocales/zh-TW.pak",
+   "sha1": "652c109482cc03e2a04bcf2021ec27c6cfa4d596",
+   "size": 45661,
+   "mode": "once"
+  },
+  {
+   "path": "mods/ACT_2.1_1.12.2.jar",
+   "sha1": "72456d300f4b118c9301b88c0263846ee208ec56",
+   "size": 328447,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Armourers-Workshop-1.12.2-0.51.0.jar",
+   "sha1": "ae34c75a0d73276d1d497e16ee57ca1fd644f88a",
+   "size": 2678747,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/BetterFps-1.4.8.jar",
+   "sha1": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
+   "size": 155196,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/CasinoCraft_1.12.2_v11 (1).jar",
+   "sha1": "ffea1a5bcc88210f2f82a177734620e62f090f3e",
+   "size": 1397640,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Chisel-MC1.12.2-1.0.2.45.jar",
+   "sha1": "d378cee9195841ea78bb9800f543d718ef2c60ef",
+   "size": 4755282,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+   "sha1": "892e0788531269bfa2f356e4e12825e19d4e5412",
+   "size": 199045,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/CustomNPCs_1.12.2-(05Jul20).jar",
+   "sha1": "a5469076df8b1d9db4e483131dc94e270b8bc7cd",
+   "size": 9911871,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Decocraft-2.6.3.7_1.12.2.jar",
+   "sha1": "e226ed02e3181aca765a52cee7bad8865d93815b",
+   "size": 16976718,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/DestasiaSuite.jar",
+   "sha1": "1b74fd2c7c931774176351d7e455e7c1c9bd6af4",
+   "size": 628496,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Destasia_mod_1.1.jar",
+   "sha1": "ce84bbe71e0c13def6c3cf2ff0b716af3336e200",
+   "size": 5733988,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Drugs_and_Psychedelics-1_12_2.jar",
+   "sha1": "28047a0963ff8fd5352389d1c11506c0e27af490",
+   "size": 3245914,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/ElevatorMod-1.12.2-1.3.14.jar",
+   "sha1": "7701eb987d8102a345e46725f4f2c6b9fc83005c",
+   "size": 108444,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Forgelin-1.8.3.jar",
+   "sha1": "28c54988ad8c88e262c8e211b450782365921c8c",
+   "size": 5772310,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/furniture-6.3.1-1.12.2.jar",
+   "sha1": "05fcc338d115ba09266ab2da39027ae319efba18",
+   "size": 2435626,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/future-mc-0.2.9.jar",
+   "sha1": "21c0ca6e4622373f29de40e960991201a50315e0",
+   "size": 14192460,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/GrimoireOfGaia3-1.12.2-1.7.2.jar",
+   "sha1": "342e7271464590a16c8743a1ae3e66833c253cf1",
+   "size": 3647043,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/guns-0.15.3-1.12.2 (1).jar",
+   "sha1": "0b52ae06c251073ef046e9528ccb1ccfb3168e68",
+   "size": 814386,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/HeroesExpansion-1.12.2-1.3.5_2.jar",
+   "sha1": "42ad042aee1ea97f1d96681c4221cd1b71577dc1",
+   "size": 2281690,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/infinity-1.12.jar",
+   "sha1": "4073598357c635ce8ba0058192609ded8322f78a",
+   "size": 371642,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/journeymap-1.12.2-5.7.1.jar",
+   "sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
+   "size": 6990968,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/JurassiCraft-1.12.2-2.1.23.jar",
+   "sha1": "5ce32755cc000c6e4662fcb60821b1cebfb5f10c",
+   "size": 22867406,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/llibrary-1.7.20-1.12.2.jar",
+   "sha1": "fba97f9dbe750f17904c00db8ff58291595106b8",
+   "size": 884550,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/LucraftCore-1.12.2-2.4.16.jar",
+   "sha1": "79575ec2cda5d8687a125466c373804fb7045e32",
+   "size": 1400134,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/LunatriusCore-1.12.2.jar",
+   "sha1": "f70b39168f2a02d47792cf29bef432e20d0bcd57",
+   "size": 76753,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/malisiscore-1.12.2-6.5.1.jar",
+   "sha1": "4b4a9fd82030ec2e31e64c9807779695323800c3",
+   "size": 1939783,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/malisisdoors-1.12.2-7.3.0.jar",
+   "sha1": "87e694ed0722b4106242faf5dd33f7e86929ec88",
+   "size": 1741669,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/mowziesmobs-1.5.8.jar",
+   "sha1": "67e9952fa9aff4441959a4ceaa0e1b67dd7e5c00",
+   "size": 5185246,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/mumblelink-1.12.2-4.2.5.jar",
+   "sha1": "44959abf2aca486b1817d7d300ffa4d969d95449",
+   "size": 140770,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/NeverEnoughCurrency-4.0.1.jar",
+   "sha1": "6094e6980be608064b0c3753a39d07d72b2991d7",
+   "size": 155815,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/obfuscate-0.4.2-1.12.2 (1).jar",
+   "sha1": "0bc9cb77f1e71d4edf98a40135e0762e6c9f9c35",
+   "size": 129099,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/OptiFine_1.12.2_HD_U_G5.jar",
+   "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
+   "size": 2669107,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Pam's+BrewCraft+1.12.2-1.0.2.jar",
+   "sha1": "1137aa8ab3641f8e74be749e0840bd0260a9f8cb",
+   "size": 380875,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Pam's+HarvestCraft+1.12.2zg.jar",
+   "sha1": "a064b434253305424755943dd66f389855ade953",
+   "size": 4912890,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/PTRLib-1.0.5.jar",
+   "sha1": "c33ddf5660c2a1c39537bd6552b2cdd73b654e18",
+   "size": 169749,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Realistic-Road-Mod-1.12.2.jar",
+   "sha1": "269025ea48b2423142a019165d9a8a76776f261b",
+   "size": 3100014,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Schematica-1.12.2-1.8.0.169-universal.jar",
+   "sha1": "cc8c851bc47ecf314c3974e3b90acfa1a62105ac",
+   "size": 336150,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/SGCraft-2.0.5.jar",
+   "sha1": "b4ad825a66379bd8331e3c4e7b6466728e9beec1",
+   "size": 7941526,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/SignPicture-1.12.1-2.8.1-universal.jar",
+   "sha1": "b9b407b2ef5f2f8aa5b883083dc863b279ebfae3",
+   "size": 1086045,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/Soccer-Mod-1.12.2.jar",
+   "sha1": "b2b623b92ec511c609a165f713c166af7bdf2532",
+   "size": 326584,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/SpeedsterHeroes-1.12.2-2.2.1.jar",
+   "sha1": "34d3fa47c7a8469fe70c54413ab53d5db6aa5007",
+   "size": 1298348,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/star-tech-1.1.1.jar",
+   "sha1": "41e24bf868c2a806e18098a283857b6f17f9a37e",
+   "size": 200723,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/the-fifth-world-0.5.1_1.jar",
+   "sha1": "de0ab176086378d0dc687f0d3c760555935183cf",
+   "size": 293828,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/vehicle-mod-0.44.1-1.12.2.jar",
+   "sha1": "67d58525bf858bbce303343c22bec62af38d4a84",
+   "size": 2139906,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+   "sha1": "17314bdab33678478af060d2156338ee34db8a09",
+   "size": 1479535,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/[1.12.2]+SecurityCraft+v1.8.23.2.jar",
+   "sha1": "158415ea09bee494c0820db67392f22c24ef2e96",
+   "size": 1915657,
+   "mode": "sync"
+  },
+  {
+   "path": "natives_blob.bin",
+   "sha1": "e9a4573d81d20b6e19a9747499863883172179b9",
+   "size": 415490,
+   "mode": "once"
+  },
+  {
+   "path": "servers.dat",
+   "sha1": "77ccdb7d877657715f57d3d88b16f101413a2d1d",
+   "size": 12416,
+   "mode": "once"
+  },
+  {
+   "path": "snapshot_blob.bin",
+   "sha1": "6458122ac7e130f92d877cf9a1395ee92bdc7aa1",
+   "size": 662124,
+   "mode": "once"
+  }
+ ],
+ "news": [
+  {
+   "date": "02/11/2026",
+   "title": "Le launcher Destasia est arrivé !",
+   "text": "Un seul bouton pour tout installer : Java, Minecraft 1.12.2, Forge et tous les mods du serveur.\nLes mises à jour des mods se font toutes seules à chaque lancement."
+  }
+ ]
+}
