@@ -1,0 +1,89 @@
+{
+    "images":
+    {
+        "logo":
+        {
+            "image" : "destasia:textures/gui/logo.png",
+            "posX" : -45,
+            "posY" : 6,
+            "width" : 90,
+            "height" : 90,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "rejoindre":
+        {
+            "text" : "\u00a7lRejoindre Destasia",
+            "posX" : -100,
+            "posY" : 60,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "connectToServer",
+                "ip" : "destasia.minesr.com:25565",
+                "serverName" : "Destasia"
+            }
+        },
+
+        "options":
+        {
+            "text" : "Options\u2026",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quitter":
+        {
+            "text" : "Quitter le jeu",
+            "posX" : -100,
+            "posY" : 120,
+            "width" : 200,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "quit"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "serveur":
+        {
+            "text" : "\u00a7fDestasia \u00a77\u00b7 destasia.minesr.com",
+            "posX" : 4,
+            "posY" : -12,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "version":
+        {
+            "text" : "\u00a77Minecraft 1.12.2 \u00b7 Forge",
+            "posX" : -112,
+            "posY" : -12,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+
+    "other":
+    {
+        "background":
+        {
+            "image" : "destasia:textures/gui/fond.png",
+            "mode" : "fill"
+        }
+    }
+}

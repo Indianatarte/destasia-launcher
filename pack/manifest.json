@@ -1,6 +1,6 @@
 {
  "name": "Destasia",
- "version": "2026-11-07 02:00",
+ "version": "2026-11-16 02:05",
  "minecraft": "1.12.2",
  "server": {
   "host": "destasia.minesr.com",
@@ -186,6 +186,12 @@
    "sha1": "1f5900c9e45c2318abb93f757e31ca66219ab7fd",
    "size": 651,
    "mode": "once"
+  },
+  {
+   "path": "config/CustomMainMenu/mainmenu.json",
+   "sha1": "9c380f531deb98b2b558af5d7d3010248a052db9",
+   "size": 1887,
+   "mode": "sync"
   },
   {
    "path": "config/CustomNpcs.cfg",
@@ -857,6 +863,12 @@
    "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
    "sha1": "892e0788531269bfa2f356e4e12825e19d4e5412",
    "size": 199045,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/CustomMainMenu-MC1.12.2-2.0.9.1-Destasia.jar",
+   "sha1": "2c866d66c4ac8d958f13230654a5470f8a826dcf",
+   "size": 2569062,
    "mode": "sync"
   },
   {
