@@ -1,6 +1,6 @@
 {
  "name": "Destasia",
- "version": "2026-11-16 02:26",
+ "version": "2026-11-16 03:27",
  "minecraft": "1.12.2",
  "server": {
   "host": "destasia.minesr.com",
@@ -881,6 +881,12 @@
    "path": "mods/Decocraft-2.6.3.7_1.12.2.jar",
    "sha1": "e226ed02e3181aca765a52cee7bad8865d93815b",
    "size": 16976718,
+   "mode": "sync"
+  },
+  {
+   "path": "mods/DestasiaMenu-1.0.jar",
+   "sha1": "9e1a88477095d71c07a0135a54232fecf0d5ca25",
+   "size": 1767,
    "mode": "sync"
   },
   {
