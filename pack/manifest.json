@@ -1,6 +1,6 @@
 {
  "name": "Destasia",
- "version": "2026-11-16 02:05",
+ "version": "2026-11-16 02:26",
  "minecraft": "1.12.2",
  "server": {
   "host": "destasia.minesr.com",
@@ -957,8 +957,8 @@
   },
   {
    "path": "mods/JurassiCraft-1.12.2-2.1.23.jar",
-   "sha1": "5ce32755cc000c6e4662fcb60821b1cebfb5f10c",
-   "size": 22867406,
+   "sha1": "d9ca7ba421045ad284cd2ec56eea75f915462a0b",
+   "size": 22802445,
    "mode": "sync"
   },
   {
